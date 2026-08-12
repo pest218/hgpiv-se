@@ -8,4 +8,4 @@ While in there, the three remaining editable slots were corrected to match reali
 
 The disclaimer panel on the driver edit screen is also updated. One word moved to make the text correct. Nothing else in the text was rewritten.
 
-Everything else is untouched. This is a minimal, surgical hack: 2,054 bytes changed out of 2 MB, no gameplay, physics, tracks, teams, orroster changes of any kind.
+Everything else is untouched. This is a minimal, surgical hack: 2,054 bytes changed out of 2 MB, no gameplay, physics, tracks, teams, or roster changes of any kind.
