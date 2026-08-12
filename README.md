@@ -1,3 +1,4 @@
+#Human Grand Prix IV - Senna Edition
 Ayrton Senna appeared as a selectable, editable driver in Human Grand Prix II and III, but was left out of Human Grand Prix IV - the most complete game in the series. This hack puts him back.
 
 The game gives you four editable driver slots that are not part of the starting grid; you swap them into the roster yourself. One of those slots held J.AMATI, a driver who never qualified for a race. That slot is now Ayrton Senna, with his own portrait drawn in the style of the game’s own driver art, his correct nationality, and his real date of birth.
